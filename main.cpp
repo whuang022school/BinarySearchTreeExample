@@ -16,5 +16,5 @@ int main(int argc,char *argv[]){
     t1->set_data(5);
     int f=t1->get_data();
     std::cout<<f<<"\n";
-    return 0;
+    return 0;//
 }
