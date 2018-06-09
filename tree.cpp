@@ -5,7 +5,7 @@
 Tree::Tree(){
     this->data=0;
     this->left=NULL;
-    this->right=NULL;
+    this->right=NULL;//
 }
 void Tree::set_data(int data){
     this->data=data;
